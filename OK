@@ -1491,3 +1491,14 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 https://v3.siar.us/surabayatv/live/playlist.m3u8
   
 #EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+
+
+################################################ SPORT ###############################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="myteve",UK: TNT SPORT 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/286.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="myteve",UK: TNT SPORT 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/285.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="myteve",UK: TNT Sport 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/283.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="myteve",UK: TNT SPORT 4 FHD
